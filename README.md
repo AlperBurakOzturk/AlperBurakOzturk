@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Alper Burak Öztürk</h1>
+- 👋 Hi, I'm Alper Burak Öztürk
 
 - 🌱 I’m a İOS Developer
 
