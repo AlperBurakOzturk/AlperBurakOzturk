@@ -1,13 +1,15 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Alper Burak Öztürk</h1>
 
-<!--
-**AlperBurakOzturk/AlperBurakOzturk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 I’m a İOS Developer
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning **Swift**
 
-👋 Hi, I'm Alper Burak Öztürk
-🌱 I’m currently learning Swift
-👯 I’m looking to collaborate on app developers
-📫 How to reach me: alperrburak@gmail.com
+- 📫 How to reach me **alperrburak@gmail.com**
 
--->
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> </p>
+
